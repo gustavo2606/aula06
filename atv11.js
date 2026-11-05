@@ -1,0 +1,1 @@
+var temperaturaAtual = 35
